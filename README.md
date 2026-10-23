@@ -9,4 +9,3 @@ A modern and fully responsive hotel website built using **HTML5** and **Bootstra
 - Organized veg and non-veg food showcase
 - Clean user authentication interface (Login & Register)
 - Integrated Google Maps location and contact details
--
